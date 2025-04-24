@@ -41,4 +41,5 @@ This project provides two major services:
 ---
 
 ## 🛠️ Project Structure
+DataScience_Project/ │ ├── data/ # Raw and processed datasets │ ├── raw/ # Unprocessed job listings and resume data │ └── processed/ # Cleaned and structured datasets │ ├── notebooks/ # Jupyter Notebooks for EDA, modeling, and visualization │ ├── job_market_analysis.ipynb │ └── resume_optimizer.ipynb │ ├── scripts/ # Python scripts for automation and reusable functions │ ├── scrape_jobs.py │ ├── clean_data.py │ └── optimize_resume.py │ ├── resume_optimizer/ # NLP tools and models for resume improvement │ └── grammar_check.py │ ├── visualizations/ # Graphs, charts, and data insights │ └── hiring_trends.png │ ├── outputs/ # Model outputs, reports, or predictions │ └── recommendations.csv │ ├── frontend/ # Web app frontend code (HTML/CSS/JS or Streamlit/Flask) │ └── app.py │ ├── requirements.txt # Python dependencies ├── README.md # Project overview and documentation └── LICENSE # Open source license info
 
